@@ -67,10 +67,10 @@ logo ="""
 \x1b[1;94m➣ 
 \x1b[1;94m➣ 
 \x1b[1;97m--------------------------------------------------------------
-\x1b[1;94m➣  YouTube  : XIDI PAKISTANI
-\x1b[1;94m➣  Facebook : REHMAT ALI
-\x1b[1;94m➣  Note     : COMMANDS MAKER XP
-\x1b[1;94m➣  Github   : https://github.com/XIDI007
+\x1b[1;94m➣  YouTube  : TECHNICAL MIRZA
+\x1b[1;94m➣  Facebook : MIRZA JAANI
+\x1b[1;94m➣  Note     : COMMANDS MAKER JAANI
+\x1b[1;94m➣  Github   : https://github.com/MIRZAJAANI75
 \x1b[1;94m➣  Whatsapp : 
 \x1b[1;94m➣  Note     : Having Problem? Contact Me On Whatsapp.
 \x1b[1;94m➣  Disclamiar : This Is For Educational Purpose Only.
@@ -92,8 +92,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "XP"
-CorrectPassword = "XIDI"
+CorrectUsername = "MIRZA"
+CorrectPassword = "JAANI"
 
 loop = 'true'
 while (loop == 'true'):
@@ -121,7 +121,7 @@ def login():
      	
 		
 		jalan(' \033[1;97m   ✧ \033[1;97mWarning: \033[1;97mUse a New Account To Login' )
-		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97mXIDI ' ) 
+		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97MIRZA' ) 
 		
 		print('	' )
 		print('      \033[1;97m      ✧ \x1b[1;97mLogin With Facebook\x1b[1;97m ✧')
@@ -219,7 +219,7 @@ def hop():
 	elif hack =="1":
 		super()
 	elif hack =="2":
-	        os.system('xdg-open https://youtube.com/channel/UC8XvbZ13hWYhIiT2M4SetbQ')
+	        os.system('xdg-open https://youtube.com/channel/UCwuxmYm_ObozBnAOOfff17A
 	        menu()
         
 	elif hack =="0":
