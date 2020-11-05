@@ -2,8 +2,8 @@
 #coding=utf-8
 #Codded By XIDI
 #Editing My Script Will Not Make You A Coder
-#Facebook : Rehmat Ali
-#Whatsapp : ++9230**
+#Facebook : MIRZA JAANI
+#Whatsapp : ++9232*
 #Pakistan Cyber Expert
 #Alone Coder 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
