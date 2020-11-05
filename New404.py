@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By XIDI
+#Codded By MIRZA
 #Editing My Script Will Not Make You A Coder
 #Facebook : MIRZA JAANI
 #Whatsapp : ++9232*
